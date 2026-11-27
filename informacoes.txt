@@ -1,0 +1,1 @@
+Projeto educacional de criptografia e recuperacao de arquivos utilizando Python 3.13.5.
